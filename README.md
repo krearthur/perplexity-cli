@@ -1,4 +1,4 @@
-**Simple Perplexity AI Chatbot**
+**MOSIPAC - MOst SImple Perplexity Ai Chatbot**
 =====================
 
 ### Overview
