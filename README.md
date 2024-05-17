@@ -1,9 +1,10 @@
-**MOSIPAC - MOst SImple Perplexity Ai Chatbot**
+**Simple Perplexity Ai Q&A**
 =====================
 
 ### Overview
 
 This script is a command-line interface to interact with the Perplexity AI chatbot. It uses the OpenAI API to send user input to the chatbot and prints the response.
+It has no capability for follow up questions. Each prompt is a new prompt and has nothing todo with the previous.
 
 ### Usage
 
